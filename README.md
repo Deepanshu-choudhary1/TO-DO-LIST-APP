@@ -1,0 +1,2 @@
+# TO-DO LIST APP
+  Certainly! Here's a description you can include in your GitHub repository:  To-Do List App This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to manage their tasks by adding, updating, and deleting them. The app features a clean and intuitive user interface with the ability to set due dates for tasks. Additionally, it calculates and displays a progress bar indicating the overall completion status of tasks based on their due dates.
